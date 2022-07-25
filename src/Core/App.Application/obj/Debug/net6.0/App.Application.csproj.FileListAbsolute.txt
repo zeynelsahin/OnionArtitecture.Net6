@@ -1,0 +1,15 @@
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\bin\Debug\net6.0\App.Application.deps.json
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\bin\Debug\net6.0\App.Application.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\bin\Debug\net6.0\App.Application.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\bin\Debug\net6.0\App.Domain.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\bin\Debug\net6.0\App.Domain.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\obj\Debug\net6.0\App.Application.csproj.AssemblyReference.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\obj\Debug\net6.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\obj\Debug\net6.0\App.Application.AssemblyInfoInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\obj\Debug\net6.0\App.Application.AssemblyInfo.cs
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\obj\Debug\net6.0\App.Application.csproj.CoreCompileInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\obj\Debug\net6.0\App.Application.csproj.CopyComplete
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\obj\Debug\net6.0\App.Application.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\obj\Debug\net6.0\refint\App.Application.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\obj\Debug\net6.0\App.Application.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\OnionArchitectureDotNet\OnionArchitectureDotNet6-master\src\Core\App.Application\obj\Debug\net6.0\ref\App.Application.dll
